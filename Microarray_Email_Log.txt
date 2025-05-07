@@ -1,0 +1,78 @@
+✅ Email sent to Dan Theodorescu (dan.theodorescu@cshs.org) with title: Androgen Receptor Regulates CD44 Expression in Bladder Cancer
+✅ Email sent to Aruo Nan (nanaruo@163.com) with title: Super-Enhancer LncRNA LINC00162 Promotes Progression of Bladder Cancer
+✅ Email sent to Taichi Mizushima (mizu123shima@gmail.com) with title: Androgen Receptor Signaling Reduces the Efficacy of Bacillus Calmette-Guérin Therapy for Bladder Cancer via Modulating Rab27b-Induced Exocytosis
+✅ Email sent to Xu Chen (joshua_18chen@163.com) with title: Long Noncoding RNA LBCS Inhibits Self-Renewal and Chemoresistance of Bladder Cancer Stem Cells through Epigenetic Silencing of SOX2
+✅ Email sent to Xu Chen (joshua_18chen@163.com) with title: DANCR Promotes Metastasis and Proliferation in Bladder Cancer Cells by Enhancing IL-11-STAT3 Signaling and CCND1 Expression
+✅ Email sent to Elodie chapeaublanc (elodie.chapeaublanc@pasteur.fr) with title: An FGFR3/MYC positive feedback loop provides new opportunities for targeted therapies in bladder cancers
+✅ Email sent to Yuanbin Ru (ruyuanbin@gmail.com) with title: Loss of Glycogen Debranching Enzyme AGL Drives Bladder Tumor Growth via Induction of Hyaluronic Acid Synthesis
+✅ Email sent to Xu Chen (joshua_18chen@163.com) with title: Upregulated WDR5 promotes proliferation, self-renewal and chemoresistance in bladder cancer via mediating H3K4 trimethylation
+✅ Email sent to Leslie Thompson (lmthomps@uci.edu) with title: Fibroblast growth factor receptor 3 interacts with and activates TGFβ-activated kinase 1 tyrosine phosphorylation and NFκB signaling in multiple my...
+✅ Email sent to Steven C Smith (scs8u@virginia.edu) with title: RhoGDI2 suppresses lung metastasis in mice by reducing tumor versican expression and macrophage infiltration
+❌ Failed to send email to gliang@usc.edu.: {'gliang@usc.edu.': (553, b'5.1.3 The recipient address <gliang@usc.edu.> is not a valid RFC 5321\n5.1.3 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 4fb4d7f45d1cf-5fa960e99a8sm6200134a12.54 - gsmtp')}
+✅ Email sent to HSIAOWANG CHEN (hchen@mednet.ucla.edu) with title: MKAD-21 Suppresses the Oncogenic Activity of the miR-21/PPP2R2A/ERK Molecular Network in Bladder Cancer
+❌(I send it myself) Failed to send email to bczernia@mdanderson.org.: {'bczernia@mdanderson.org.': (553, b'5.1.3 The recipient address <bczernia@mdanderson.org.> is not a valid RFC\n5.1.3 5321 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a640c23a62f3a-ad18950ad15sm660409466b.154 - gsmtp')}
+✅ Email sent to Tiewei Cheng (tcheng@mdanderson.org) with title: Identification of distinct basal and luminal subtypes of muscle-invasive bladder cancer with different sensitivities to frontline chemotherapy
+✅ Email sent to David McConkey (dmcconke@mdanderson.org) with title: Identification of distinct basal and luminal subtypes of muscle-invasive bladder cancer with different sensitivities to frontline chemotherapy
+✅ Email sent to wei Qi (david_weiqi@hotmail.com) with title: Inhibition of Inducible Heat Shock Protein-70 (Hsp72) Enhances Bortezomib-Induced Cell Death in Human Bladder Cancer Cells
+✅ Email sent to Elodie chapeaublanc (elodie.chapeaublanc@pasteur.fr) with title: APOBEC-mediated Mutagenesis as a Likely Cause of FGFR3 S249C Mutation Over-representation in Bladder Cancer
+✅ Email sent to Mikhail Dozmorov (mdozmorov@vcu.edu) with title: Differential effects of selective frankincense (Ru Xiang) essential oil versus non-selective sandalwood (Tan Xiang) essential oil on cultured bladd...
+✅ Email sent to Mikhail Dozmorov (mdozmorov@vcu.edu) with title: Suppression and activation of the malignant phenotype by extracellular matrix in xenograft models of bladder cancer: a model for tumor cell "dormancy"
+✅ Email sent to  Chuanliang Xu (xuchuanliang@vip.126.com) with title: Transcriptome sequencing identifies ANLN as a promising prognostic biomarker in bladder urothelial carcinoma
+✅ Email sent to Gangning Liang (gliang@usc.edu) with title: Epigenetic plasticity potentiates a rapid cyclical shift to and from an aggressive cancer phenotype
+✅ Email sent to Rolf I. Skotheim (rolf.i.skotheim@rr-research.no) with title: Fusion gene microarray reveals cancer type-specificity among fusion genes
+✅ Email sent to Bart Frank (frank@omrf.org) with title: Frankincense oil derived from Boswellia carteri induces tumor cell specific cytotoxicity
+✅ Email sent to Robert Evan Hurst (robert-hurst@ouhsc.edu) with title: Template-driven gene selection procedure
+✅ Email sent to Jinfeng Liu (liu.jinfeng@gene.com) with title: FGFR3 stimulates stearoyl CoA desaturase 1 activity to promote bladder tumor growth
+✅ Email sent to Elodie chapeaublanc (elodie.chapeaublanc@pasteur.fr) with title: An FGFR3/MYC positive feedback loop provides new opportunities for targeted therapies in bladder cancers
+✅ Email sent to MARINA KOUTSIOUMPA (mkoutsioumpa@gmail.com) with title: MKAD-21 Suppresses the Oncogenic Activity of the miR-21/PPP2R2A/ERK Molecular Network in Bladder Cancer
+✅ Email sent to Ian Giddings (ian.giddings@icr.ac.uk) with title: Role of E2F3 expression in modulating cellular proliferation rate in human bladder and prostate cancer cells
+✅ Email sent to Monica Martinez-Fernandez (monicamartinezfernandez@gmail.com) with title: CDK4/6 Inhibitor as a Novel Therapeutic Approach for Advanced Bladder Cancer Independently of RB1 Status
+✅ Email sent to Monica Martinez-Fernandez (monicamartinezfernandez@gmail.com) with title: Inhibition of a G9a/DNMT network triggers immune-mediated bladder cancer regression
+✅ Email sent to Goodwin G Jinesh (goodwinjinesh@gmail.com) with title: The Blebbishield Emergency Program Overrides Chromosomal Instability and Phagocytosis Checkpoints in Cancer Stem Cells
+✅ Email sent to Tuan Zea Tan (csittz@nus.edu.sg) with title: BCG therapy downregulates HLA-I on malignant cells to subvert antitumor immune responses in bladder cancer
+✅ Email sent to Elodie chapeaublanc (elodie.chapeaublanc@pasteur.fr) with title: TYRO3 as a molecular target for growth inhibition and apoptosis induction in bladder cancer
+✅ Email sent to Ewa Dudziec (mdp07ed@sheffield.ac.uk) with title: Integrated epigenome profiling of repressive histone modifications, DNA methylation and gene expression in normal and malignant urothelial cells
+✅ Email sent to Enrique Carrillo de Santa Pau (enrique.carrillo@imdea.org) with title: The UBC-40 Urothelial Bladder Cancer cell line index: a genomic resource for functional studies
+✅ Email sent to Margaret Knowles (m.a.knowles@leeds.ac.uk) with title: Development of resistance to FGFR inhibition in urothelial carcinoma via multiple pathways in vitro
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Aberrantly expressed PLOD1 promotes cancer aggressiveness in bladder cancer: a potential prognostic marker and therapeutic target
+✅ Email sent to Jingya Sun (sunjingya123@126.com) with title: Oxidized Low-Density Lipoprotein Links Hypercholesterolemia and Bladder Cancer Aggressiveness by Promoting Cancer Stemness
+✅ Email sent to Jingya Sun (sunjingya123@126.com) with title: Inhibition of G9a by a small molecule inhibitor, UNC0642, induces apoptosis of human bladder cancer cells
+✅ Email sent to YANJUN GAO (gyj305268145@126.com) with title: Increased expression of TRIP13 drives the tumorigenesis of bladder cancer in association with the EGFR signaling pathway
+✅ Email sent to Ming-Han Kuo (ukt789@livemail.tw) with title: Critical role of SOX2-IGF2 signaling in aggressiveness of bladder cancer
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Tumor suppressive microRNA‑138 contributes to cell migration and invasion through its targeting of vimentin in renal cell carcinoma
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Identification of novel molecular targets regulated by tumor suppressive miR-1/miR-133a in maxillary sinus squamous cell carcinoma
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: miR-1 as a tumor suppressive microRNA targeting TAGLN2 in head and neck squamous cell carcinoma
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Tumor suppressive microRNA-133a regulates novel molecular networks in lung squamous cell carcinoma
+✅ Email sent to Avencia Sanchez-Mejias (asmejias@med.miami.edu) with title: Hedgehog Signaling Regulates Bladder Cancer Growth And Tumorigenicity
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: LY6K is a novel molecular target in bladder cancer on basis of integrate genome-wide profiling
+✅ Email sent to Carlos S. Moreno (cmoreno@emory.edu) with title: SOX4 regulates invasion of bladder cancer cells via repression of WNT5a
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Pirin: a potential novel therapeutic target for castration-resistant prostate cancer regulated by miR-455-5p
+✅ Email sent to Hiromu Suzuki (hsuzuki@sapmed.ac.jp) with title: Epigenetic silencing of miR-200b is associated with cisplatin resistance in bladder cancer
+✅ Email sent to Takashi Deguchi (deguchit@gifu-u.ac.jp) with title: Enzalutamide inhibits proliferation of gemcitabine-resistant bladder cancer cells with increased androgen receptor expression
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Impact of novel oncogenic pathways regulated by antitumor miR-451a in renal cell carcinoma
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: LY6K is a novel molecular target in bladder cancer on basis of integrate genome-wide profiling
+✅ Email sent to Bao-Fa Sun (sunbf@big.ac.cn) with title: 5-methylcytosine promotes pathogenesis of bladder cancer through stabilizing mRNAs
+✅ Email sent to Sridar V Chittur (schittur@albany.edu) with title: Targeting Thyrointegrin αvβ3 Using Fluorobenzyl Polyethylene Glycol Conjugated Tetraiodothyroacetic Acid (NP751) in Acute Myeloid Leukemia
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Molecular pathogenesis of renal cell carcinoma: Impact of the anti-tumor miR-29 family on gene regulation
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: MicroRNA expression signature of castration-resistant prostate cancer: the microRNA-221/222 cluster functions as a tumour suppressor and disease pr...
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Regulation of antitumor miR-144-5p targets oncogenes: Direct regulation of syndecan-3 and its clinical significance
+✅ Email sent to frederic lepretre (frederic.lepretre@univ-lille.fr) with title: Antagonistic Roles of the Tumor Suppressor miR-210-3p and Oncomucin MUC4 Forming a Negative Feedback Loop in Pancreatic Adenocarcinoma
+✅ Email sent to Ines Ambite (ines.ambite@med.lu.se) with title: A bacterial protease depletes c-MYC and increases survival in mouse models of bladder and colon cancer
+✅ Email sent to Jonathan Nguyen (jonathan.nguyen@moffitt.org) with title: Nicotine-mediated invasion and migration of non-small cell lung carcinoma cells by modulating STMN3 and GSPT1 genes in an ID1-dependent manner
+✅ Email sent to Peter Black (pblack@mail.ubc.ca) with title: Not all NOTCH Is Created Equal: The Oncogenic Role of NOTCH2 in Bladder Cancer and Its Implications for Targeted Therapy
+✅ Email sent to Johannes Rainer (johannes.rainer@eurac.edu) with title: eIF3a is over-expressed in urinary bladder cancer and influences its phenotype independent of translation initiation
+✅ Email sent to Satoshi Inoue (sinoue@tmig.or.jp) with title: ALDH1A1 in patient-derived bladder cancer spheroids activates retinoic acid signaling leading to TUBB3 overexpression and tumor progression
+✅ Email sent to Lin Gan (lgan@ukaachen.de) with title: The ECM Modulator ITIH5 Affects Cell Adhesion, Motility and Chemotherapeutic Response of Basal/Squamous-Like (BASQ) Bladder Cancer Cells
+✅ Email sent to James WF Catto (j.catto@sheffield.ac.uk) with title: MicroRNA-99a and 100 mediated upregulation of FOXA1 in bladder cancer
+✅ Email sent to Suet-Lin Chia (suetlin@upm.edu.my) with title: Persistent Newcastle disease virus infection in bladder cancer cells is associated with putative pro-survival and anti-viral transcriptomic changes
+✅ Email sent to Erica di Martino (e.dimartino@leeds.ac.uk) with title: ETV5 links the FGFR3 and Hippo signalling pathways in bladder cancer
+✅ Email sent to Kyunghwan Kim (kyunghki@usc.edu) with title: VprBP has intrinsic kinase activity targeting histone H2A and represses gene transcription
+✅ Email sent to Chih-Cheng Chien (chiencmail@yahoo.com.tw) with title: Toll-Like Receptor 6 and Connective Tissue Growth Factor Are Significantly Upregulated in Mitomycin-C-Treated Urothelial Carcinoma Cells Under Hydr...
+✅ Email sent to Myung-Shin Lee (imslee@gmail.com) with title: The role of Kaposi’s sarcoma-associated herpesvirus infection in the proliferation of human bladder cancer cells
+✅ Email sent to Akira Oki (sp9y9tq9@piano.ocn.ne.jp) with title: AP1 and COX2 Coordinately Regulate Urothelial Cancer Stem-like Cells
+✅ Email sent to Antoni Berenguer-LLergo (aberenguerl@tauli.cat) with title: Targeting metastasis-initiating cells through the fatty acid receptor CD36
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Pirin: a potential novel therapeutic target for castration-resistant prostate cancer regulated by miR-455-5p
+✅ Email sent to Naohiko Seki (naoseki@faculty.chiba-u.jp) with title: Regulation of TPD52 by antitumor microRNA-218 suppresses cancer cell migration and invasion in lung squamous cell carcinoma
+✅ Email sent to Jae K Lee (jaeklee@virginia.edu) with title: A strategy for predicting the chemosensitivity of human cancers and its application to drug discovery
+✅ Email sent to Denise Mauldin (dmauldin@fhcrc.org) with title: Tissue-specific consequences of cyclin D1 overexpression in prostate cancer progression
+✅ Email sent to Hiromu Suzuki (hsuzuki@sapmed.ac.jp) with title: Methylation of a panel of microRNA genes is a novel biomarker for detection of bladder cancer
