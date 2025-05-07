@@ -1,0 +1,138 @@
+nothing added to commit but untracked files present (use "git add" to track)
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git add .
+warning: in the working copy of '.idea/inspectionProfiles/profiles_settings.xml', LF will be replaced by CRLF the next time Git touches it
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git commit -m "add all in master"
+[master (root-commit) eedb938] add all in master
+ 8 files changed, 206 insertions(+)
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/NextEmailProject.iml
+ create mode 100644 .idea/inspectionProfiles/profiles_settings.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 Microarray_Email_Log.txt
+ create mode 100644 main.py
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git branch -M main
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote add origin
+usage: git remote add [<options>] <name> <url>
+
+    -f, --[no-]fetch      fetch the remote branches
+    --[no-]tags           import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --[no-]track <branch>
+                          branch(es) to track
+    -m, --[no-]master <branch>
+                          master branch
+    --[no-]mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote add origin https://github.com/KhosraviEngineer/automatic-emailing.git
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push -u origin main
+remote: Permission to KhosraviEngineer/automatic-emailing.git denied to mohmmdkhosravi.
+fatal: unable to access 'https://github.com/KhosraviEngineer/automatic-emailing.git/': The requested URL returned error: 403
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote add origin https://github.com/KhosraviEngineer/automatic-emailing.git
+error: remote origin already exists.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push -u origin main
+remote: Permission to KhosraviEngineer/automatic-emailing.git denied to mohmmdkhosravi.
+fatal: unable to access 'https://github.com/KhosraviEngineer/automatic-emailing.git/': The requested URL returned error: 403
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote add origin https://github.com/KhosraviEngineer/automatic-emailing.git
+error: remote origin already exists.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push -u origin main
+remote: Permission to KhosraviEngineer/automatic-emailing.git denied to mohmmdkhosravi.
+fatal: unable to access 'https://github.com/KhosraviEngineer/automatic-emailing.git/': The requested URL returned error: 403
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote add origin git@github.com:KhosraviEngineer/automatic-emailing.git
+error: remote origin already exists.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push -u origin main
+remote: Permission to KhosraviEngineer/automatic-emailing.git denied to mohmmdkhosravi.
+fatal: unable to access 'https://github.com/KhosraviEngineer/automatic-emailing.git/': The requested URL returned error: 403
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> Get-Service -Name ssh-agent
+
+Status   Name               DisplayName
+------   ----               -----------
+Running  ssh-agent          OpenSSH Authentication Agent
+
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote -v
+origin  https://github.com/KhosraviEngineer/automatic-emailing.git (fetch)
+origin  https://github.com/KhosraviEngineer/automatic-emailing.git (push)
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push origin main
+remote: Permission to KhosraviEngineer/automatic-emailing.git denied to mohmmdkhosravi.
+fatal: unable to access 'https://github.com/KhosraviEngineer/automatic-emailing.git/': The requested URL returned error: 403
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git branch
+* main
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push origin
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push origin main
+remote: Permission to KhosraviEngineer/automatic-emailing.git denied to mohmmdkhosravi.
+fatal: unable to access 'https://github.com/KhosraviEngineer/automatic-emailing.git/': The requested URL returned error: 403
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git config --global user.email "khosravi.jsdev@gmail.com"
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git config --global user.name "KhosraviEngineer"
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push origin main
+remote: Permission to KhosraviEngineer/automatic-emailing.git denied to mohmmdkhosravi.
+fatal: unable to access 'https://github.com/KhosraviEngineer/automatic-emailing.git/': The requested URL returned error: 403
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> ssh-keygen -t ed25519 -C "khosravi.jsdev@gmail.com"
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (C:\Users\khosravi/.ssh/id_ed25519):
+C:\Users\khosravi/.ssh/id_ed25519 already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in C:\Users\khosravi/.ssh/id_ed25519
+Your public key has been saved in C:\Users\khosravi/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:WbElc7Ke+kDIQ+IsmNtxMlToGjnLbnbopgoQNggJQso khosravi.jsdev@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|*o ..     = o    |
+|B ..       X     |
+|+E. . .   +      |
+|==oo + . + .     |
+|=== + + S o      |
+|++ *   o .       |
+|+ o     o        |
+|.* .     o       |
+|X..       .      |
++----[SHA256]-----+
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote set-url origin git@github.com:KhosraviEngineer/automatic-emailing.git
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> ssh -T git@github.com
+Hi KhosraviEngineer! You've successfully authenticated, but GitHub does not provide shell access.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push origin main
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote -v
+origin  git@github.com:KhosraviEngineer/automatic-emailing.git (fetch)
+origin  git@github.com:KhosraviEngineer/automatic-emailing.git (push)
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote add origin https://github.com/KhosraviEngineer/automatic-emailing.git
+error: remote origin already exists.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push origin main
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> Get-Content $env:USERPROFILE\.ssh\id_ed25519.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOjjYPRpY5t6XMNvVPZ/QAbYmLEgadomfh5XS8tdm4gM khosravi.jsdev@gmail.com
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git remote add origin https://github.com/KhosraviEngineer/automatic-emailing.git
+error: remote origin already exists.
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git push origin main
+Enumerating objects: 12, done.
+Counting objects: 100% (12/12), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (12/12), 8.14 KiB | 1.16 MiB/s, done.
+Total 12 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To github.com:KhosraviEngineer/automatic-emailing.git
+ * [new branch]      main -> main
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject> git status
+On branch main
+nothing to commit, working tree clean
+PS C:\Users\khosravi\PycharmProjects\NextEmailProject>
